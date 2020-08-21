@@ -1,6 +1,12 @@
 # ForestFireDetection
 
-This is a simple Forest fire detection developed using Arduino, NodeMCU and Windows Form with IOT.
+# Description
+This is a simple Forest fire detection developed using Arduino, NodeMCU and Windows Form. The purpose of this application is to detect any fire incident at forest and send data immediatelly to forest officers and fire fighters. This rapidly decrease time of acknowledgement of fire incident at forest and reduces fire spread across the forest. This application build based on IoT platform. Arduino handles the data received from sensors and sends to cloud (Firebase). Windows Form fetchs the data from cloud and display on GUI.
+
+# Hardware
+Arduino Nano
+NodeMCU
+Windows Operating System Device
 
 # Sensors
 
@@ -10,4 +16,3 @@ MQ9 Gas Sensor
 Rain Sensor Module
 IR Sensor / Flame Sensor
 
-# Description
