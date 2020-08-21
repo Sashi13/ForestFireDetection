@@ -13,9 +13,13 @@ Windows Operating System Device
 
 # Sensors
 
-DHT 11 Humidity and Temperature Sensor
+DHT 11 Humidity and Temperature Sensor  
+
 MQ135 Gas Sensor
+
 MQ9 Gas Sensor
+
 Rain Sensor Module
+
 IR Sensor / Flame Sensor
 
